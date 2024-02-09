@@ -31,10 +31,17 @@
 
 ## Communication Schedule
 
-| Day      |  How   | The topic of discussion |
-| -------- | :----: | ----------------------- |
-| 13 Jan   | Signal | Initial Meeting         |
-| Saturday | Signal | Work on project         |
+| Day    |  How   | The topic of discussion           |
+| -------| :----: | --------------------------------- |
+| 11 Jan | Signal | Collaboration Tools               |
+| 13 Jan | Signal | GitHub Account Creation and Setup |
+| 15 Jan | Signal | Group Norms, Group Rules, Learning Goals and Constraints |
+| 17 Jan | Signal | Coding Challenges |
+| 23 Jan | Signal | Problem Identification & Domain Selection |
+| 30 Jan | Signal | Data Collection |
+| 09 Feb | Signal | Data Analysis |
+| 20 Feb | Signal | Communicating Results |
+| 01 Mar | Signal | Final Presentation |
 
 ## Communication Channels
 
