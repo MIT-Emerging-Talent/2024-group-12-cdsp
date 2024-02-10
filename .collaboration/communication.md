@@ -67,8 +67,8 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### How many hours everyone has per day:
 
-- Niloufar Ahmadi: _3-4 h_; More available on Fridays.
 - Nasrin Ahmadi: _2h_; More available on Weekdays.
+- Niloufar Ahmadi: _3-4 h_; More available on Fridays.
 
 
 ## Asking for Help
