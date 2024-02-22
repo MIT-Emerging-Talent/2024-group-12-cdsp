@@ -1,4 +1,4 @@
-# The Socio-Economic Impact of Restrictions on Women's Employment in Afghanistan
+# Unveiling the Impact: Women's Employment Restrictions in Afghanistan
 
 After the Taliban's assumption of control, a notable transformation has unfolded in the professional landscape for women. The newfound constraints have resulted in a considerable number of women experiencing the loss of their employment opportunities. Analyzing the socio-economic impact of these restrictions not only sheds light on the challenges faced by women but also presents an invaluable opportunity to generate meaningful insights. These insights can serve as a foundation for informed policy decisions and advocacy efforts aimed at fostering gender equality and enhancing economic opportunities for women in the affected regions.
 
