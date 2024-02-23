@@ -1,0 +1,8 @@
+# Problem Selection: Unveiling the Impact of Women's Employment Restrictions in Afghanistan
+Our initial focus was on public health issues. However, we were compelled to shift our attention to the critical problem of enforced restrictions on women's employment in Afghanistan. This decision stemmed from a profound sense of urgency and the conviction that addressing this issue holds immense significance.
+
+While public health concerns are undoubtedly crucial, the current situation in Afghanistan demands immediate action to mitigate the devastating consequences of these restrictions. Women, constituting half the population, are systematically excluded from the workforce, jeopardizing not only their individual well-being but also the nation's overall economic and social development.
+
+This research delves into the measurable socio-economic impacts of these restrictions, aiming to quantify the detrimental effects on household income, poverty levels, child marriage, child labor, and displacement. Furthermore, we explore the potential benefits of lifting these restrictions, analyzing their contribution to economic growth, gender equality, and the overall well-being of Afghan society.
+
+We believe that a comprehensive understanding of the multifaceted consequences, coupled with a clear vision of potential solutions, is essential to advocate for change and pave the way for a brighter future for Afghanistan. By prioritizing this issue, we hope to contribute meaningfully to the ongoing efforts towards gender equality, economic development, and respect for fundamental human rights in the country.
