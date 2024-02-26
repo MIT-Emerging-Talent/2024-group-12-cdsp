@@ -14,16 +14,16 @@ What is the measurable socio-economic impact of enforced restriction on women's 
 
 ## Other Research Questions
 
-1- What was the pre-restriction percentage of women employed in the public, private, and social impact sectors?
-2- What is the post-restriction percentage of women employed in the public, private, and social impact sectors?
-3- What is the average household size in Afghanistan?
-4- What was the average number of income-earning members in a household before the imposition of restrictions?
-5- What is the average number of income-earning members in a household after the imposition of restrictions?
-6- What was the average household income in Afghanistan before the restrictions?
-7- What is the average household income in Afghanistan after the restrictions?
-8- What was the incidence of child marriages and child labor before the restrictions?
-9- What is the current incidence of child marriages post-restrictions?
-10- How have these restrictions impacted mental health in Afghanistan?
+1. What was the pre-restriction percentage of women employed in the public, private, and social impact sectors?
+2. What is the post-restriction percentage of women employed in the public, private, and social impact sectors?
+3. What is the average household size in Afghanistan?
+4. What was the average number of income-earning members in a household before the imposition of restrictions?
+5. What is the average number of income-earning members in a household after the imposition of restrictions?
+6. What was the average household income in Afghanistan before the restrictions?
+7. What is the average household income in Afghanistan after the restrictions?
+8. What was the incidence of child marriages and child labor before the restrictions?
+9. What is the current incidence of child marriages post-restrictions?
+10. How have these restrictions impacted mental health in Afghanistan?
 
 
 ## Non-technical Explanation of Modeling Approach and Possible Flaws
