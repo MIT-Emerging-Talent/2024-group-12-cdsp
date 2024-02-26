@@ -71,7 +71,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 - Niloufar Ahmadi: _3-4 h_; More available on Fridays.
 
 
-## Asking for Help
+## Asking for Help 🙋‍♀️
 
 There's a fine line between confidently learning from your mistakes, and
 stubbornly getting no where. Here is a general guide for when to ask for help
