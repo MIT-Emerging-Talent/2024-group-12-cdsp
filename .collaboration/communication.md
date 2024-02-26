@@ -7,9 +7,9 @@
         you can share the rest in confidence with you group by another channel
 -->
 
-# Communication
+# Communication 💬
 
-## Group Rules
+## Group Rules 📋
 
 <!-- any general rules you'd like to set for your group? -->
 - Use designated communication channels (Slack, Signal, Whatsapp) for project-related discussions.
@@ -29,7 +29,7 @@
 
 ---
 
-## Communication Schedule
+## Communication Schedule 📅
 
 | Day    |  How   | The topic of discussion           |
 | -------| :----: | --------------------------------- |
@@ -43,7 +43,7 @@
 | 20 Feb | Signal | Communicating Results |
 | 01 Mar | Signal | Final Presentation |
 
-## Communication Channels
+## Communication Channels 📱
 
 how often will we get in touch on each channel, and what we will discuss there:
 
@@ -56,7 +56,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ---
 
-## Availability
+## Availability 👩‍💻
 
 ### Availability for calling/messaging
 
