@@ -1,10 +1,10 @@
 <!-- this template is for inspiration, feel free to change it however you like! -->
 
-# Constraints
+# Constraints 🚧
 
 Some boundaries around our project.
 
-## External
+## External 🌐
 
 ### Geographical Constraints:
 
@@ -41,7 +41,7 @@ Students working across different time zones may face challenges in coordinating
   - technologies (sometimes a client will tell you what to use)
 -->
 
-## Internal: Involuntary
+## Internal: Involuntary 🚫
 
 ### Skill Disparities:
 
@@ -53,7 +53,7 @@ Students varying levels of expertise can be an involuntary internal constraint. 
   - amount of time available to work on the project
 -->
 
-## Internal: Voluntary
+## Internal: Voluntary ☑️
 
 <!--
   constraints that your team decided on to help scope the project. they may include:
