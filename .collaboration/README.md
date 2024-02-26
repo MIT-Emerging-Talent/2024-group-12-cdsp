@@ -1,14 +1,14 @@
-# Algorithms and Data Structures: Group Study
+# Algorithms and Data Structures: Group Study 📚📊
 
 <!-- group norms summary -->
 
-## Group norms summary
+## Group norms summary 📋
 
 The group norms aim to create a smooth collaboration in our remote team. We stress clear communication using defined channels and response times. Virtual meetings have set protocols for punctuality and active engagement. Regular updates on project progress keep everyone informed. Tasks are assigned based on strengths, ensuring accountability. Working hours respect time zones. We prioritize documentation and a centralized system for easy access. A feedback culture encourages constructive communication, and tech literacy is ensured through training. Meeting deadlines is crucial, fostering a sense of accountability for prompt task completion. Together, these norms promote a straightforward and efficient remote working environment.
 
 <!-- group norms list -->
 
-## Group norms list
+## Group norms list 📝
 
 ### Communication Guidelines:
 
