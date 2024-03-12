@@ -1,6 +1,7 @@
 # Data Sources
 Our data is sourced from reputable international organizations such as the Afghanistan Central Statistics Organization, Amnesty International, Human Rights Watch, the International Labour Organization, UNICEF, UNHCR, UN Women, and the World Bank.
 
+
 | Reference | Title | URL |
 | -------| :----: | --------------------------------- |
 | Afghanistan Central Statistics Organization | Afghanistan Statistical Yearbook | N/A |
